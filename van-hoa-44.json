@@ -1,0 +1,37 @@
+[
+  {
+    "title": {
+      "korean": "한국의 대규모 토목 공사",
+      "vietnamese": "Những công trình dân dụng quy mô lớn của Hàn Quốc"
+    },
+    "data": [
+      {
+        "korean": "토목은 도로, 철도, 공항, 교량, 댐 등 사회 기반 시설을 건설하는 공사를 말하는데 한국은 우수한 기술력을 바탕으로 국내외의 다양한 대규모 토목 공사를 수행해 오고 있습니다. 사막을 녹지로 만들기 위한 20세기 최대 규모의 토목 공사로 '사막의 녹색혁명'이라 불리는 리비아의 대수로 공사도 한국의 기술력으로 진행되었습니다.",
+        "vietnamese": "Công trình xây dựng dân dụng là những công trình xây dựng cơ sở hạ tầng cơ bản của xã hội như đường, đường sắt, cầu hay đập nước. Hàn Quốc đang thực hiện những công trình xây dựng dân dụng quy mô lớn ở trong lẫn ngoài nước dựa trên nền tảng kỹ thuật vượt trội. \"Cách mạng xanh sa mạc\" là một công trình quan trọng của Libya nhằm phủ xanh sa mạc. Đây cũng là công trình dân dụng có quy mô lớn nhất thế kỷ 20 được xây dựng bằng năng lực kỹ thuật của Hàn Quốc."
+      },
+      {
+        "korean": "한국에서도 한국의 지도를 바꿀 정도의 대규모 토목 공사가 여러 차례 이루어졌습니다. 먼저 세계로 통하는 한국의 관문인 '인천국제공항'은 대규모 토목 공사로 이루어진 결과물입니다. 인천 국제공항은 인천 앞바다에 있던 몇 개의 섬을 간척하여 건설한 동북아시아의 허브 공항입니다. 인천국제공항을 송도국제도시와 연결하는 '인천대교'는 수상 교량의 길이가 21.38km나 되는 한국에서 가장 긴 다리입니다. 2009년에 개통된 인천대교는 왕복 6차로로 주탑의 높이가 무려 238.5m에 이르는 한국에서 가장 거대한 사장교입니다.",
+        "vietnamese": "Ở Hàn Quốc, hàng loạt những công trình dân dụng quy mô lớn lần lượt được xây dựng khiến cho bản đồ của quốc gia này thay đổi. Đầu tiên phải kể đến Sân bay quốc tế Incheon - cửa ngõ nối liền Hàn Quốc và thế giới. Sân bay này được xây dựng bằng cách khai hoang các đảo nằm ngoài khơi biển Incheon. Đây là cầu nối của khu vực Đông Bắc Á. Cầu Incheon nối sân bay quốc tế Incheon và khu đô thị mới Songdo là cây cầu dài nhất Hàn Quốc với tổng độ dài trên mặt nước là 21,38km. Cây cầu này được khánh thành năm 2009, là cầu dây văng lớn nhất Hàn Quốc với 6 làn xe đi lại theo hai chiều và độ cao của tháp chính là 238,5m."
+      },
+      {
+        "korean": "2010년에 개통된 거가대교는 부산과 거제를 연결하는 다리입니다. 사장교와 육상터널, 해저침매 터널(Submarine immersed tunnel)로 이루어진 총 길이 8.2km의 세계에서 가장 긴 해상 다리 중 하나입니다. 거가대교는 부산과 거제를 연결하는 중요한 교통로로 사용되고 있을 뿐만 아니라 인근 지역 간의 교류를 촉진하는 데도 크게 기여하고 있습니다.",
+        "vietnamese": "Cầu Geoga được khánh thành năm 2010 là cầu nối giữa Busan và Geoje. Đây là một trong những cây cầu bắc qua biển dài nhất thế giới với tổng chiều dài cầu dây văng, đường hầm trên bờ và hầm chui dưới đáy biển dài 8,2km. Cầu Geoga không chỉ là đầu mối giao thông quan trọng nối Busan và Geoje mà còn đóng góp lớn trong việc xúc tiến giao lưu giữa các khu vực lân cận."
+      }
+    ],
+    "voca": {
+      "사막": "Sa mạc",
+      "녹지": "Vành đai xanh, vùng đất xanh",
+      "녹색혁명": "Cách mạng xanh",
+      "대규모": "Quy mô lớn",
+      "앞바다": "Biển gần đất liền",
+      "국제도시": "Đô thị quốc tế",
+      "사장교": "Cầu dây văng",
+      "무려": "Đến, đến tận, đến mức",
+      "개통되다": "Được khai thông, khánh thành",
+      "육상터널": "Đường hầm trên đất liền",
+      "해저침매터널": "Đường hầm dưới biển",
+      "인근 지역 간의 교류를 촉진하다": "Xúc tiến giao lưu giữa các khu vực lân cận",
+      "기여하다": "Đóng góp, góp phần"
+    }
+  }
+]

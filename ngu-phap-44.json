@@ -1,0 +1,44 @@
+[{
+  "nguphap": "-아야겠/어야겠-",
+  "loai": "Động từ/Tính từ + -아야겠/어야겠-",
+  "ynghia": "Được gắn vào **động từ hoặc tính từ** để diễn đạt hai ý nghĩa:\n1️⃣ Thể hiện **ý chí mạnh mẽ** của người nói về việc nhất định phải làm gì đó.\n2️⃣ Dựa trên suy nghĩ hoặc tình huống hiện tại để **suy đoán hoặc nhận định** rằng cần phải như thế.",
+  "vidu": [
+    {
+      "cau": "재고 정리할 사람이 부족하니까 제가 가 봐야겠어요.",
+      "nghia": "Vì thiếu người sắp xếp hàng tồn nên tôi chắc phải đi thôi."
+    },
+    {
+      "cau": "작업장에 냄새가 좀 심해서 창문을 열어야겠어요.",
+      "nghia": "Xưởng có mùi hơi nặng nên chắc phải mở cửa sổ."
+    },
+    {
+      "cau": "유수프 씨, 콘크리트 타설 전에 철근을 결속해야겠어요.",
+      "nghia": "Anh Yusuf, trước khi đổ bê tông chắc phải buộc thép đã."
+    },
+    {
+      "cau": "오늘 일찍 자야겠네요.",
+      "nghia": "Hôm nay chắc phải ngủ sớm rồi."
+    }
+  ],
+  "luat": "Động từ/Tính từ có nguyên âm ㅏ, ㅗ → + 아야겠- (파다 → 파야겠어요); nguyên âm khác → + 어야겠- (섞다 → 섞어야겠어요); với 하다 → + 해야겠- (처리하다 → 처리해야겠어요)."
+},
+{
+  "nguphap": "-도록",
+  "loai": "Động từ + -도록",
+  "ynghia": "Được gắn vào **động từ** để diễn đạt:\n1️⃣ **Mục đích** của hành động ở mệnh đề sau (để, nhằm).\n2️⃣ **Mức độ hoặc giới hạn** để đạt điều kiện mong muốn (đến mức, sao cho).",
+  "vidu": [
+    {
+      "cau": "누수가 생기지 않도록 관을 잘 연결해야 돼요.",
+      "nghia": "Phải nối ống thật chắc để không bị rò rỉ."
+    },
+    {
+      "cau": "앞이 잘 보이도록 지게차에 물건을 높이 쌓지 마세요.",
+      "nghia": "Đừng xếp hàng quá cao lên xe nâng để nhìn rõ phía trước."
+    },
+    {
+      "cau": "사람들이 안전하게 다니도록 작업장 주위를 정리하겠습니다.",
+      "nghia": "Tôi sẽ dọn dẹp xung quanh xưởng để mọi người đi lại an toàn."
+    }
+  ],
+  "luat": "Động từ + 도록. Thường dùng trong chỉ thị, hướng dẫn, khuyến cáo để nhấn mạnh mục đích hoặc kết quả cần đạt."
+}]
