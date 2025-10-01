@@ -1,0 +1,46 @@
+[
+  {
+    "title": {
+      "korean": "건설 현장의 중장비",
+      "vietnamese": "Trang thiết bị hạng nặng ở công trường xây dựng"
+    },
+    "data": [
+      {
+        "korean": "교량이나 도로, 큰 건물을 짓는 대규모의 공사 현장에서는 다양한 중장비가 사용됩니다. 건설 중장비는 사용 목적에 따라 아래와 같이 토목 장비, 운반 장비, 포장 장비 등으로 분류되는데 무엇보다 안전하게 사용하는 것이 중요합니다.",
+        "vietnamese": "Ở các công trường quy mô lớn xây dựng cầu, đường hay những tòa nhà lớn thì có rất nhiều trang thiết bị hạng nặng được sử dụng. Trang thiết bị hạng nặng trong ngành xây dựng được phân loại thành: thiết bị xây dựng, thiết bị vận chuyển hay thiết bị thi công tùy vào mục đích sử dụng và quan trọng hơn hết là sử dụng chúng một cách an toàn."
+      },
+      {
+        "korean": "불도저 - 땅을 깎거나 평평하게 하는 장비\n크레인 - 무거운 것을 옮기는 장비\n굴착기 - 땅을 파거나 암석을 뚫는 장비\n스크레이퍼 - 도로의 표면을 긁어내거나 평평하게 하는 장비\n로더 - 흙이나 모래를 트럭에 싣거나 운반하는 장비\n덤프트럭 - 흙이나 자갈 등을 실어 운반하는 차량\n콘크리트 믹서 트럭 - 콘크리트를 섞으면서 운반하는 차량\n트랙터 - 무거운 장비나 짐을 견인하는 차량\n지게차 - 무거운 물건을 들어 올려 운반하는 차량\n그레이더 - 땅바닥을 고르거나 정리하는 데 사용하는 장비\n롤러 - 흙이나 아스팔트 등의 재료를 압축하고 지면을 다지는 데 사용하는 장비\n콘크리트 펌프 트럭 - 콘크리트를 구조물의 표면에 뿌리는 장비\n아스팔트 살포기 - 아스팔트 혼합물을 도로 표면에 뿌리는 장비",
+        "vietnamese": "Máy ủi - Là thiết bị san ủi và làm mặt đất trở nên bằng phẳng.\nCần cẩu - Là thiết bị di chuyển vật nặng\nMáy đào - Là thiết bị đào đất hoặc phá vỡ đá\nMáy san đất - Là thiết bị dùng để cạo hay san phẳng mặt đường\nMáy xúc - Là thiết bị xúc hoặc vận chuyển đất, cát lên xe tải\nXe ben - Là phương tiện dùng để vận chuyển đất hay sỏi\nXe trộn bê tông - Là phương tiện vừa vận chuyển vừa trộn bê tông\nXe kéo - Là phương tiện kéo trang thiết bị hay hàng hóa nặng\nXe nâng - Là phương tiện nâng và vận chuyển hàng hóa nặng\nXe san đất - Là thiết bị sử dụng để san phẳng hay xử lý bề mặt đất\nXe lu - Là thiết bị sử dụng khi nén các loại vật liệu như đất, nhựa đường rồi làm phẳng bề mặt đất\nXe bơm bê tông - Là thiết bị dùng để rải bê tông lên bề mặt của công trình\nXe rải nhựa đường - Là thiết bị dùng để rải hỗn hợp nhựa đường lên bề mặt đường."
+      },
+      {
+        "korean": "토목 장비 - 불도저, 크레인, 굴착기, 스크레이퍼, 로더\n운반 장비 - 덤프트럭, 콘크리트 믹서 트럭, 트랙터, 지게차\n포장 장비 - 그레이더, 롤러, 콘크리트 펌프 트럭, 아스팔트 살포기",
+        "vietnamese": "Thiết bị xây dựng - Máy ủi, Cần cẩu, Máy đào, Máy san đất, Máy xúc\nThiết bị vận chuyển - Xe ben, Xe trộn bê tông, Xe kéo, Xe nâng\nThiết bị thi công - Xe san đất, Xe lu, Xe bơm bê tông, Xe rải nhựa đường"
+      }
+    ],
+    "voca": {
+      "중장비": "Trang thiết bị hạng nặng",
+      "교량": "Cầu",
+      "도로": "Đường",
+      "건물": "Tòa nhà",
+      "대규모": "Quy mô lớn",
+      "사용 목적": "Mục đích sử dụng",
+      "토목 장비": "Thiết bị xây dựng",
+      "운반 장비": "Thiết bị vận chuyển",
+      "포장 장비": "Thiết bị thi công",
+      "불도저": "Máy ủi",
+      "크레인": "Cần cẩu",
+      "굴착기": "Máy đào",
+      "스크레이퍼": "Máy san đất",
+      "로더": "Máy xúc",
+      "덤프트럭": "Xe ben",
+      "콘크리트 믹서 트럭": "Xe trộn bê tông",
+      "트랙터": "Xe kéo",
+      "지게차": "Xe nâng",
+      "그레이더": "Xe san đất",
+      "롤러": "Xe lu",
+      "콘크리트 펌프 트럭": "Xe bơm bê tông",
+      "아스팔트 살포기": "Xe rải nhựa đường"
+    }
+  }
+]

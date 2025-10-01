@@ -1,0 +1,40 @@
+[{
+  "nguphap": "-(으)ㄹ 텐데",
+  "loai": "Động từ/Tính từ + -(으)ㄹ 텐데",
+  "ynghia": "Được gắn vào **động từ hoặc tính từ** để **suy đoán** về một tình huống nào đó và dùng suy đoán đó làm **bối cảnh hoặc lý do** cho nội dung ở mệnh đề sau.",
+  "vidu": [
+    {
+      "cau": "내일은 타설 작업이 많을 텐데 미리 배근 상태를 확인해 봅시다.",
+      "nghia": "Ngày mai chắc sẽ có nhiều công việc đổ bê tông, nên hãy kiểm tra trước tình trạng cốt thép."
+    },
+    {
+      "cau": "결속선을 두는 곳은 아미나 씨가 알 텐데 한번 물어보세요.",
+      "nghia": "Chắc chị Amina biết chỗ đặt dây buộc, hãy thử hỏi chị ấy."
+    },
+    {
+      "cau": "날씨가 추울 텐데 옷을 따뜻하게 입고 가세요.",
+      "nghia": "Trời chắc sẽ lạnh, nên hãy mặc ấm khi đi."
+    }
+  ],
+  "luat": "Động từ/Tính từ có patchim → + 을 텐데 (넣다 → 넣을 텐데); không patchim hoặc patchim ‘ㄹ’ → + ㄹ 텐데 (치우다 → 치울 텐데, 만들다 → 만들 텐데)."
+},
+{
+  "nguphap": "-(으)ㄹ걸요",
+  "loai": "Động từ/Tính từ + -(으)ㄹ걸요",
+  "ynghia": "Được gắn vào **động từ hoặc tính từ** để diễn đạt **sự phỏng đoán hoặc suy đoán** về một tình huống hay sự việc. Chủ yếu dùng trong **hội thoại** và thường lên giọng ở cuối câu.",
+  "vidu": [
+    {
+      "cau": "오늘 작업한 상품은 내일 오전에 출고할걸요.",
+      "nghia": "Sản phẩm làm hôm nay chắc sẽ xuất kho vào sáng mai đấy."
+    },
+    {
+      "cau": "방금 염색 작업이 끝나서 작업장이 더러울걸요.",
+      "nghia": "Vừa mới xong việc nhuộm nên xưởng chắc sẽ bẩn đấy."
+    },
+    {
+      "cau": "아마 남은 게 있을걸요. 창고에 가서 확인해 볼게요.",
+      "nghia": "Chắc là còn hàng đấy. Để tôi đi kho kiểm tra xem."
+    }
+  ],
+  "luat": "Động từ/Tính từ có patchim → + 을걸요 (닦다 → 닦을걸요); không patchim hoặc patchim ‘ㄹ’ → + ㄹ걸요 (쓰다 → 쓸걸요, 힘들다 → 힘들걸요)."
+}]
