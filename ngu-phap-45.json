@@ -1,0 +1,40 @@
+[{
+  "nguphap": "-(으)ㄹ까 하다",
+  "loai": "Động từ + -(으)ㄹ까 하다",
+  "ynghia": "Được gắn vào **động từ** để diễn đạt **ý định hoặc dự định** của người nói, nhưng chưa quyết định chắc chắn. Chủ ngữ thường là **ngôi thứ nhất**.",
+  "vidu": [
+    {
+      "cau": "날씨가 추우니까 오늘은 따뜻한 음식을 먹을까 해요.",
+      "nghia": "Trời lạnh nên tôi đang định ăn món nóng hôm nay."
+    },
+    {
+      "cau": "내일은 밭에 씨앗을 뿌릴까 해요.",
+      "nghia": "Ngày mai tôi đang tính gieo hạt ra ruộng."
+    },
+    {
+      "cau": "저는 작업장 청소를 할까 해요.",
+      "nghia": "Tôi đang định dọn dẹp xưởng."
+    }
+  ],
+  "luat": "Động từ có patchim + 을까 하다 (읽다 → 읽을까 하다); không patchim hoặc patchim ㄹ + ㄹ까 하다 (자다 → 잘까 하다, 열다 → 열까 하다). Dùng khi bày tỏ dự định chưa chắc chắn."
+},
+{
+  "nguphap": "-지 말고",
+  "loai": "Động từ + -지 말고",
+  "ynghia": "Được gắn vào **động từ** để diễn đạt ý nghĩa **không làm hành động ở vế trước** mà **thay vào đó thực hiện hành động ở vế sau**.",
+  "vidu": [
+    {
+      "cau": "사과를 상자에 담지 말고 분류 작업부터 하세요.",
+      "nghia": "Đừng cho táo vào hộp, hãy phân loại trước."
+    },
+    {
+      "cau": "오늘은 너무 추우니까 작업을 하지 말고 쉽시다.",
+      "nghia": "Hôm nay trời quá lạnh, đừng làm việc mà hãy nghỉ ngơi."
+    },
+    {
+      "cau": "더우니까 에어컨을 끄지 말고 켜 두세요.",
+      "nghia": "Trời nóng nên đừng tắt máy lạnh, hãy để bật."
+    }
+  ],
+  "luat": "Gắn -지 말고 vào gốc **động từ** để diễn đạt ý cấm làm hành động trước và đề nghị làm hành động sau. Thường dùng trong câu khuyên nhủ hoặc mệnh lệnh."
+}]

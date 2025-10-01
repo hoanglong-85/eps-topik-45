@@ -1,0 +1,43 @@
+[
+  {
+    "title": {
+      "korean": "스마트팜",
+      "vietnamese": "Trang trại thông minh"
+    },
+    "data": [
+      {
+        "korean": "스마트팜은 농업에 정보통신기술(ICT)을 접목하여 농작물을 효율적으로 관리하는 농업 시스템입니다. 스마트팜은 농작물의 생산성을 향상시키고 노동력을 절감하게 해 주며 친환경 농업을 실현하는 데 도움을 줍니다. 스마트팜은 딸기, 수박 등의 과일류부터 상추, 청경채 등의 채소류와 바질, 로즈마리 등의 허브류에 이르기까지 다양한 농작물을 재배하는 데 활용되고 있으며 미래농업의 중요한 요소로 더욱 주목받고 있습니다.",
+        "vietnamese": "Trang trại thông minh là hệ thống nông nghiệp áp dụng công nghệ thông tin và truyền thông để quản lý nông sản một cách hiệu quả. Nông trại thông minh giúp nâng cao năng suất cây trồng, giảm sức lao động và hiện thực hóa nông nghiệp thân thiện với môi trường. Trang trại thông minh đã được áp dụng để trồng các loại hoa quả như dâu tây, dưa hấu, các loại rau như xà lách, cải thìa và các loại thảo mộc như húng quế, hương thảo. Đây là yếu tố quan trọng của nông nghiệp tương lai."
+      },
+      {
+        "korean": "스마트팜은 농작물의 성장 환경을 관리하기 위하여 센서와 네트워크 기술을 활용하고, 성장 조건을 최적화하기 위하여 빅데이터와 인공지능 기술을 활용합니다. 이와 같은 스마트팜 기술은 농작물의 수확량과 품질을 향상시키고 자원을 효율적으로 관리할 수 있도록 해 줍니다.",
+        "vietnamese": "Trang trại thông minh áp dụng kỹ thuật cảm biến và mạng lưới công nghệ để quản lý môi trường phát triển của cây trồng, đồng thời sử dụng dữ liệu lớn và công nghệ trí tuệ nhân tạo để tối ưu hóa điều kiện sinh trưởng. Những kỹ thuật này giúp nâng cao sản lượng và chất lượng nông sản, đồng thời quản lý nguồn lực hiệu quả."
+      },
+      {
+        "korean": "한국은 스마트팜 분야에서 빠르게 성장하고 있는 국가 중 하나입니다. 한국 정부는 스마트팜을 미래 농업의 핵심 분야로 인식하고, 다양한 정책으로 스마트팜의 보급과 발전을 지원하고 있습니다. 그 결과 스마트팜 기술이 빠르게 보급되고 있으며, 스마트팜 농업의 시장 규모도 2021년 이후 연평균 약 15% 정도의 성장률을 보일 정도로 크게 확대되었습니다.",
+        "vietnamese": "Hàn Quốc là một trong những quốc gia có sự tăng trưởng nhanh trong lĩnh vực trang trại thông minh. Chính phủ Hàn Quốc nhận thức trang trại thông minh là trọng tâm của nông nghiệp tương lai và hỗ trợ sự phát triển thông qua nhiều chính sách khác nhau. Kết quả là công nghệ trang trại thông minh được phổ biến nhanh chóng, và thị trường nông nghiệp thông minh đã tăng trưởng trung bình khoảng 15% mỗi năm kể từ 2021."
+      }
+    ],
+    "voca": {
+      "정보통신기술": "Công nghệ thông tin và truyền thông",
+      "접목하다": "Ghép cây, cấy ghép, lai tạo",
+      "시스템": "Hệ thống",
+      "향상시키다": "Nâng cấp, nâng cao",
+      "절감하다": "Cắt giảm, tiết giảm",
+      "상추": "Xà lách",
+      "청경채": "Cải thìa",
+      "바질": "Húng quế",
+      "로즈마리": "Hương thảo",
+      "허브류": "Các loại thảo mộc",
+      "센서": "Cảm biến",
+      "네트워크 기술": "Công nghệ mạng",
+      "성장 조건": "Điều kiện phát triển",
+      "최적화하다": "Tối ưu hoá",
+      "빅데이터": "Dữ liệu lớn",
+      "인공지능 기술": "Công nghệ trí tuệ nhân tạo",
+      "스마트팜 기술": "Công nghệ nông nghiệp thông minh",
+      "농업의 핵심": "Trọng tâm ngành nông nghiệp",
+      "보급되다": "Được cung cấp, được phổ biến"
+    }
+  }
+]
