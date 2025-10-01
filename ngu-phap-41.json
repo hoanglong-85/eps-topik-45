@@ -1,0 +1,48 @@
+[{
+  "nguphap": "-거나 / (이)나",
+  "loai": "Động từ/Tính từ + -거나 / Danh từ + (이)나",
+  "ynghia": "‘-거나’ được gắn vào **động từ hoặc tính từ** để diễn tả sự lựa chọn giữa hai hoặc nhiều hành động/trạng thái, hoặc cho biết rằng hành động/trạng thái nào trong số đó cũng đều có thể xảy ra.  ‘(이)나’ được gắn vào **danh từ** để chỉ việc chọn một trong hai hoặc nhiều sự vật, hoặc diễn tả một sự lựa chọn không hoàn toàn hài lòng nhưng là phương án thay thế chấp nhận được.",
+  "vidu": [
+    {
+      "cau": "작업장에서 소리를 지르거나 짜증을 내면 안 돼요.",
+      "nghia": "Không được la hét hoặc cáu gắt trong xưởng làm việc."
+    },
+    {
+      "cau": "날씨가 너무 덥거나 추우면 밖에서 작업할 수 없어요.",
+      "nghia": "Nếu thời tiết quá nóng hoặc quá lạnh thì không thể làm việc ngoài trời."
+    },
+    {
+      "cau": "트럭에 물건을 실을 때 너무 높이 쌓거나 적재 중량을 지키지 않으면 안 돼요.",
+      "nghia": "Khi chất hàng lên xe tải, không được xếp quá cao hoặc vượt quá trọng tải quy định."
+    },
+    {
+      "cau": "작업대가 정리되어 있지 않으면 공구에 손이나 발을 다칠 수 있어요.",
+      "nghia": "Nếu bàn làm việc không được sắp xếp gọn gàng, có thể bị thương tay hoặc chân bởi dụng cụ."
+    },
+    {
+      "cau": "비가 오니까 실내에서 탁구나 치자.",
+      "nghia": "Trời mưa rồi, hãy chơi bóng bàn trong nhà đi."
+    }
+  ],
+  "luat": "Động từ/Tính từ + -거나: Dùng để nối các hành động/trạng thái, mang nghĩa lựa chọn hoặc khả năng xảy ra một trong các hành động đó.  Danh từ + (이)나: Dùng để lựa chọn giữa các danh từ hoặc chỉ sự lựa chọn không tối ưu nhưng chấp nhận được."
+},
+{
+  "nguphap": "-아야/어야",
+  "loai": "Động từ/Tính từ + -아야/어야",
+  "ynghia": "Gắn vào **động từ hoặc tính từ** để diễn tả rằng hành động hoặc trạng thái ở vế trước là **điều kiện bắt buộc** để thực hiện hoặc đạt được nội dung ở vế sau.",
+  "vidu": [
+    {
+      "cau": "동료들과 사이가 좋아야 회사 생활을 즐겁게 할 수 있어요.",
+      "nghia": "Phải có quan hệ tốt với đồng nghiệp thì mới có thể làm việc vui vẻ trong công ty."
+    },
+    {
+      "cau": "작업을 서둘러야 출하 시간 전까지 끝낼 수 있어요.",
+      "nghia": "Phải nhanh chóng làm việc thì mới có thể hoàn thành trước giờ giao hàng."
+    },
+    {
+      "cau": "지금 출발해야 회사에 늦지 않을 거예요.",
+      "nghia": "Phải xuất phát ngay bây giờ thì mới không bị trễ giờ làm."
+    }
+  ],
+  "luat": "Động từ/Tính từ + -아야/어야: Diễn tả điều kiện cần thiết để vế sau có thể xảy ra hoặc đạt được."
+}]

@@ -1,0 +1,34 @@
+[
+  {
+    "title": {
+      "korean": "한국의 섬유와 패션 산업",
+      "vietnamese": "Ngành công nghiệp dệt may và thời trang của Hàn Quốc"
+    },
+    "data": [
+      {
+        "korean": "K-드라마와 K-팝의 세계적인 인기에 힘입어 K-패션이 국제적으로 주목을 받고 있습니다. '옷이 날개다'라는 속담이 있을 정도로 한국 사람들은 예로부터 때와 장소에 맞는 옷차림을 중요하게 생각해 왔습니다. 패션에 대한 선조들의 이러한 관심은 한국의 섬유와 패션 산업 발전의 밑거름이 되었습니다.",
+        "vietnamese": "Nhờ vào sự giúp đỡ của ngành điện ảnh và âm nhạc nổi tiếng mà ngành thời trang Hàn Quốc đang nhận được sự chú ý trên toàn thế giới. Người Hàn Quốc có câu tục ngữ rằng 'Áo quần là đôi cánh' (người đẹp vì lụa). Điều này thể hiện từ xa xưa người Hàn Quốc đã coi trọng cách ăn mặc sao cho phù hợp với không gian và thời gian. Sự quan tâm của những lớp người đi trước với thời trang đã trở thành nền tảng cho sự phát triển của ngành công nghiệp dệt may và thời trang của Hàn Quốc."
+      },
+      {
+        "korean": "원료를 가공하여 섬유를 생산하는 섬유 산업과 섬유를 이용하여 원단을 만드는 방직 산업은 한국전쟁 이후 한국의 경제 재건을 위한 산업화 시기에 시작되었습니다. 특히 대구는 방직업을 중심으로 대규모 섬유 공장이 세워지면서 '섬유 도시'로 발전하였습니다. 2000년대에 이르러 한국의 섬유 산업에 첨단 기술이 도입되면서 기능성 섬유와 같은 고품질의 소재를 생산할 수 있게 되었습니다. 이러한 결과로 2022년 한국의 섬유 산업은 화학섬유와 편직물을 중심으로 세계 시장 점유율 6위라는 높은 경쟁력을 갖추게 되었습니다.",
+        "vietnamese": "Ngành công nghiệp dệt gia công nguyên liệu thô để sản xuất sợi và ngành công nghiệp dệt may - sử dụng sợi tạo ra vải đã được bắt đầu trong thời kỳ công nghiệp để tái thiết kinh tế Hàn Quốc sau khi chiến tranh kết thúc. Đặc biệt, Daegu đã phát triển trở thành 'thành phố dệt may' với hàng loạt những công xưởng dệt may quy mô lớn được xây dựng. Từ những năm 2000, những kỹ thuật tiên tiến được đưa vào ứng dụng trong ngành dệt may đã giúp Hàn Quốc sản xuất được những sản phẩm chất lượng cao như sợi chức năng. Kết quả là vào năm 2022, ngành công nghiệp dệt may Hàn Quốc đã có sức cạnh tranh cao, vươn lên đứng thứ 6 trên thị trường thế giới với trọng tâm là sợi hóa học và vải dệt kim."
+      }
+    ],
+    "voca": {
+      "소리를 지르다": "Trỗi giọng, la hét",
+      "방청지": "Giấy chống gỉ",
+      "꼼꼼하게": "Một cách tỉ mỉ, cẩn thận",
+      "녹슬다": "Bị gỉ, bị ăn mòn",
+      "불순물을 제거하다": "Khử tạp chất",
+      "패션 산업": "Ngành công nghiệp thời trang",
+      "주목을 받다": "Được chú ý, nhận được sự chú ý",
+      "옷이 날개다": "Người đẹp vì lụa",
+      "속담": "Câu ca dao, tục ngữ",
+      "밑거름이 되다": "Nền tảng bền vững",
+      "방직업": "Ngành dệt may",
+      "대규모": "Quy mô lớn",
+      "화학 섬유": "Sợi hoá học, sợi tổng hợp",
+      "편직물": "Vải dệt kim"
+    }
+  }
+]
