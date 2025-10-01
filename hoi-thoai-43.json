@@ -1,0 +1,92 @@
+[
+    {
+        "audio": "hoi-thoai-43-1.mp3",
+        "hinhanh": "hoi-thoai-43-1.jpg",
+        "hoithoai":[
+    {
+      "speaker": "반장님",
+      "korean": "유수프 씨, 지금부터 철근을 결속해야 되는데 결속하는 방법은 알고 있죠?",
+      "vietnamese": "Yusuf, bây giờ chúng ta phải buộc thép. Anh biết cách buộc rồi đúng không?"
+    },
+    {
+      "speaker": "유수프",
+      "korean": "네, 지난번에 해 봤습니다. 가로 철근과 세로 철근이 만나는 교차점에 결속선을 묶으면 되죠?",
+      "vietnamese": "Vâng, lần trước tôi đã làm rồi. Chỉ cần buộc dây thép ở chỗ giao nhau giữa thép ngang và thép dọc, đúng không ạ?"
+    },
+    {
+      "speaker": "반장님",
+      "korean": "맞아요. 철근이 움직이지 않게 결속선을 꽉 묶어야 돼요. 잘못 묶으면 콘크리트 무게 때문에 철근이 움직여요. 결속 핸들하고 결속선은 가져왔죠?",
+      "vietnamese": "Đúng rồi. Phải buộc chặt để thép không bị xê dịch. Nếu buộc sai thì dưới sức nặng của bê tông, thép sẽ bị dịch chuyển. Anh đã mang tay cầm buộc và dây buộc chưa?"
+    },
+    {
+      "speaker": "유수프",
+      "korean": "아, 아직 안 들고 왔습니다. 지금 바로 가지러 가겠습니다.",
+      "vietnamese": "À, tôi chưa mang. Tôi sẽ đi lấy ngay bây giờ."
+    },
+    {
+      "speaker": "반장님",
+      "korean": "창고 안이 복잡해서 찾기 힘들 텐데 내가 다녀올게요.",
+      "vietnamese": "Trong kho lộn xộn nên chắc khó tìm, để tôi đi lấy cho."
+    }
+  ],
+  "questions": [
+    {
+      "korean_question": "결속선은 어디에 묶어야 돼요?",
+      "vietnamese_question": "Dây buộc thép phải buộc ở đâu?",
+      "korean_answer": "가로 철근과 세로 철근이 만나는 교차점에 묶어야 돼요.",
+      "vietnamese_answer": "Phải buộc ở chỗ giao nhau giữa thép ngang và thép dọc."
+    },
+    {
+      "korean_question": "결속선을 잘못 묶으면 어떻게 돼요?",
+      "vietnamese_question": "Nếu buộc dây thép sai thì sẽ thế nào?",
+      "korean_answer": "콘크리트 무게 때문에 철근이 움직여요.",
+      "vietnamese_answer": "Thép sẽ bị dịch chuyển do sức nặng của bê tông."
+    }
+  ]
+    },
+    {
+        "audio": "hoi-thoai-43-2.mp3",
+        "hinhanh": "hoi-thoai-43-2.jpg",
+        "hoithoai": [
+    {
+      "speaker": "반장님",
+      "korean": "오늘은 거푸집을 설치해야 할 텐데 웨지핀하고 플랫타이는 가져왔죠?",
+      "vietnamese": "Hôm nay chúng ta phải lắp cốp pha, anh đã mang chốt nêm (wedge pin) và thanh giằng (flat tie) chưa?"
+    },
+    {
+      "speaker": "유수프",
+      "korean": "네, 가져왔습니다. 그런데 웨지핀하고 플랫타이를 어떻게 사용해야 돼요?",
+      "vietnamese": "Vâng, tôi đã mang rồi. Nhưng phải dùng chốt nêm và thanh giằng như thế nào ạ?"
+    },
+    {
+      "speaker": "반장님",
+      "korean": "양 옆의 거푸집은 웨지핀으로 고정하고 마주보는 거푸집은 플랫타이로 고정하면 돼요. 그리고 가장 아래에 있는 거푸집은 콘크리트를 타설할 때 하중을 많이 받으니까 플랫타이를 두 개씩 쓰고요.",
+      "vietnamese": "Cốp pha hai bên thì cố định bằng chốt nêm, còn cốp pha đối diện thì cố định bằng thanh giằng. Riêng phần cốp pha dưới cùng sẽ chịu lực nặng khi đổ bê tông, nên phải dùng hai thanh giằng."
+    },
+    {
+      "speaker": "유수프",
+      "korean": "알겠습니다. 그런데 거푸집을 설치하고 나면 바로 콘크리트를 타설해요?",
+      "vietnamese": "Rõ rồi. Nhưng sau khi lắp cốp pha thì có đổ bê tông ngay không ạ?"
+    },
+    {
+      "speaker": "반장님",
+      "korean": "체결 상태도 확인하고, 타설 준비도 해야 되니까 하루이틀 정도는 기다려야 할걸요.",
+      "vietnamese": "Còn phải kiểm tra tình trạng cố định và chuẩn bị trước khi đổ bê tông, nên phải đợi khoảng một hai ngày."
+    }
+  ],
+  "questions": [
+    {
+      "korean_question": "아래쪽 거푸집에는 플랫타이를 몇 개 사용해요? 이유는 뭐예요?",
+      "vietnamese_question": "Cốp pha phía dưới dùng mấy thanh giằng? Lý do là gì?",
+      "korean_answer": "플랫타이를 두 개 사용해요. 아래쪽은 콘크리트 하중을 많이 받기 때문이에요.",
+      "vietnamese_answer": "Dùng hai thanh giằng, vì cốp pha dưới cùng chịu nhiều áp lực khi đổ bê tông."
+    },
+    {
+      "korean_question": "거푸집 설치가 끝나면 무엇을 해요?",
+      "vietnamese_question": "Sau khi lắp cốp pha xong thì phải làm gì?",
+      "korean_answer": "체결 상태를 확인하고 콘크리트 타설 준비를 해야 돼요.",
+      "vietnamese_answer": "Phải kiểm tra tình trạng cố định và chuẩn bị để đổ bê tông."
+    }
+  ]
+    }
+]

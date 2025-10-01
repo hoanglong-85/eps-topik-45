@@ -1,0 +1,102 @@
+[
+    {
+        "audio": "hoi-thoai-42-1.mp3",
+        "hinhanh": "hoi-thoai-42-1.jpg",
+        "hoithoai":[
+    {
+      "speaker": "아 궁",
+      "korean": "반장님, 원목 준비해 뒀습니다. 이제 재단하면 되지요?",
+      "vietnamese": "Banjangnim, tôi đã chuẩn bị gỗ nguyên liệu rồi. Giờ mình bắt đầu cắt được chứ?"
+    },
+    {
+      "speaker": "반장님",
+      "korean": "잠깐만요. 이건 우리가 작업할 원목이 아닌 것 같아요. 25밀리미터 두께가 필요한데 이건 35밀리미터짜리인데요.",
+      "vietnamese": "Khoan đã. Đây không phải là gỗ mà chúng ta cần làm việc. Chúng ta cần loại dày 25mm, nhưng cái này dày 35mm."
+    },
+    {
+      "speaker": "아 궁",
+      "korean": "그래요? 실수할까 봐 메모를 해 뒀는데 제가 메모를 잘못 한 것 같습니다. 죄송합니다.",
+      "vietnamese": "Thật vậy sao? Tôi sợ nhầm nên đã ghi chú, nhưng có lẽ tôi đã ghi sai. Xin lỗi."
+    },
+    {
+      "speaker": "반장님",
+      "korean": "괜찮아요. 이거 갖다 놓고 다시 가져오세요. 그사이에 내가 작업 준비를 하고 있을게요.",
+      "vietnamese": "Không sao. Hãy mang cái này trả lại và lấy đúng loại về. Trong lúc đó tôi sẽ chuẩn bị chỗ làm việc."
+    },
+    {
+      "speaker": "아 궁",
+      "korean": "알겠습니다. 얼른 다시 가져올게요.",
+      "vietnamese": "Rõ rồi. Tôi sẽ đi lấy ngay."
+    },
+    {
+      "speaker": "반장님",
+      "korean": "그래도 작업 전에 확인했으니까 다행이에요. 원목 두께가 다른 걸 쓰면 큰일 나거든요.",
+      "vietnamese": "May mà mình đã kiểm tra trước khi làm. Nếu dùng gỗ có độ dày khác thì sẽ có vấn đề lớn đấy."
+    }
+  ],
+  "questions": [
+    {
+      "korean_question": "아궁 씨는 무슨 일을 할 거예요?",
+      "vietnamese_question": "Agung sẽ làm gì?",
+      "korean_answer": "잘못 가져온 원목을 돌려놓고 올바른 원목을 다시 가져올 거예요.",
+      "vietnamese_answer": "Anh ấy sẽ mang gỗ sai trả lại và lấy đúng loại gỗ về."
+    },
+    {
+      "korean_question": "아궁 씨는 어떤 원목을 가져와야 해요?",
+      "vietnamese_question": "Agung cần mang loại gỗ nào?",
+      "korean_answer": "25밀리미터 두께의 원목을 가져와야 해요.",
+      "vietnamese_answer": "Anh ấy cần mang gỗ có độ dày 25mm."
+    }
+  ]
+    },
+    {
+        "audio": "hoi-thoai-42-2.mp3",
+        "hinhanh": "hoi-thoai-42-2.jpg",
+        "hoithoai":  [
+    {
+      "speaker": "진 수",
+      "korean": "마두 씨, 반장님께서 뭐라고 하셨어요?",
+      "vietnamese": "Madhu, tổ trưởng đã nói gì với anh vậy?"
+    },
+    {
+      "speaker": "마 두",
+      "korean": "오늘까지 도색 작업을 끝낼 수 있느냐고 물으셨어요. 야근을 해야 될 것 같아요.",
+      "vietnamese": "Ông ấy hỏi liệu hôm nay chúng ta có thể hoàn thành công việc sơn không. Có lẽ chúng ta sẽ phải tăng ca."
+    },
+    {
+      "speaker": "진 수",
+      "korean": "이건 스프레이로 도색하는 거라서 오래 안 걸릴 거예요.",
+      "vietnamese": "Cái này là sơn bằng bình xịt nên sẽ không mất nhiều thời gian."
+    },
+    {
+      "speaker": "마 두",
+      "korean": "그거 말고 의자도 있잖아요. 그것도 도색까지 하려면 시간이 꽤 걸릴 것 같은데요.",
+      "vietnamese": "Ngoài ra còn có ghế nữa. Nếu phải sơn cả chúng thì chắc sẽ tốn khá nhiều thời gian."
+    },
+    {
+      "speaker": "진 수",
+      "korean": "그건 바니시로 마감재만 바르면 되는 거라서 젯소나 페인트 작업을 할 필요가 없어요.",
+      "vietnamese": "Với ghế thì chỉ cần phủ lớp vecni hoàn thiện, không cần lót hay sơn màu."
+    },
+    {
+      "speaker": "마 두",
+      "korean": "그럼 퇴근 시간 전에 다 끝낼 수 있겠네요. 어서 시작합시다.",
+      "vietnamese": "Vậy thì có thể xong trước giờ tan ca rồi. Hãy bắt đầu ngay thôi."
+    }
+  ],
+  "questions": [
+    {
+      "korean_question": "반장님은 마두 씨에게 뭐라고 했어요?",
+      "vietnamese_question": "Tổ trưởng đã nói gì với Madhu?",
+      "korean_answer": "오늘까지 도색 작업을 끝낼 수 있느냐고 물으셨어요.",
+      "vietnamese_answer": "Ông ấy hỏi liệu hôm nay có thể hoàn thành công việc sơn không."
+    },
+    {
+      "korean_question": "의자 도색은 무엇으로 해요?",
+      "vietnamese_question": "Ghế được sơn bằng gì?",
+      "korean_answer": "바니시로 마감해요.",
+      "vietnamese_answer": "Ghế được phủ vecni để hoàn thiện."
+    }
+  ]
+    }
+]

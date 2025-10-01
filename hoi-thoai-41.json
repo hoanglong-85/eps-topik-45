@@ -1,0 +1,102 @@
+[
+    {
+        "audio": "hoi-thoai-41-1.mp3",
+        "hinhanh": "hoi-thoai-41-1.jpg",
+        "hoithoai": [
+            {
+                "speaker": "닛차난",
+                "korean": "오늘도 비가 오네요. 장마철이라서 정말 습하고 더워요.",
+                "vietnamese": "Hôm nay lại mưa rồi. Mùa mưa nên thật sự ẩm ướt và nóng nực."
+            },
+            {
+                "speaker": "반장님",
+                "korean": "이렇게 덥고 습한 날씨에는 원사 관리에 더 신경을 써 주세요. 잘하고 있지요?",
+                "vietnamese": "Trong thời tiết nóng ẩm thế này, hãy chú ý hơn đến việc quản lý sợi nhé. Bạn đang làm tốt chứ?"
+            },
+            {
+                "speaker": "닛차난",
+                "korean": "네, 그럼요. 원사는 온도와 습도에 민감해서 변색되거나 오염되기 쉽잖아요.",
+                "vietnamese": "Vâng, tất nhiên rồi. Sợi rất nhạy cảm với nhiệt độ và độ ẩm nên dễ bị đổi màu hoặc nhiễm bẩn."
+            },
+            {
+                "speaker": "반장님",
+                "korean": "맞아요. 창고의 온도와 습도를 일정하게 유지하는 게 중요한데 주기적으로 확인하고 있지요?",
+                "vietnamese": "Đúng vậy. Việc duy trì nhiệt độ và độ ẩm trong kho ổn định rất quan trọng, bạn có kiểm tra thường xuyên chứ?"
+            },
+            {
+                "speaker": "닛차난",
+                "korean": "네, 한 시간마다 온도와 습도를 측정해서 관리 대장에 써 놓고 있어요.",
+                "vietnamese": "Vâng, tôi đo nhiệt độ và độ ẩm mỗi giờ rồi ghi vào sổ quản lý."
+            },
+            {
+                "speaker": "반장님",
+                "korean": "좋아요. 원사의 종류마다 보관 방법이 다르니까 종류별로 분류해서 관리해 주세요.",
+                "vietnamese": "Tốt lắm. Vì mỗi loại sợi có cách bảo quản khác nhau, nên hãy phân loại và quản lý theo từng loại nhé."
+            }
+        ],
+        "questions": [
+            {
+                "korean_question": "원사를 보관할 때 무엇이 중요해요?",
+                "vietnamese_question": "Điều gì quan trọng khi bảo quản sợi?",
+                "korean_answer": "창고의 온도와 습도를 일정하게 유지하는 게 중요해요.",
+                "vietnamese_answer": "Quan trọng là phải duy trì nhiệt độ và độ ẩm trong kho ổn định."
+            },
+            {
+                "korean_question": "닛차난은 어떻게 원사를 관리하고 있어요?",
+                "vietnamese_question": "Nitchanan đang quản lý sợi như thế nào?",
+                "korean_answer": "한 시간마다 온도와 습도를 측정해서 관리 대장에 기록하고 있어요.",
+                "vietnamese_answer": "Cô ấy đo nhiệt độ và độ ẩm mỗi giờ rồi ghi vào sổ quản lý."
+            }
+        ]
+    },
+    {
+        "audio": "hoi-thoai-41-2.mp3",
+        "hinhanh": "hoi-thoai-41-2.jpg",
+        "hoithoai": [
+            {
+                "speaker": "마 두",
+                "korean": "민수 씨, 여기 좀 봐 주세요. 원단이 자꾸 엉키는데 어떡하지요?",
+                "vietnamese": "Minsu, làm ơn xem giúp tôi. Vải cứ bị rối hoài, phải làm sao đây?"
+            },
+            {
+                "speaker": "민 수",
+                "korean": "마두 씨, 기계 속도를 좀 줄여 보세요. 원단을 펴 줘야 고르게 염색돼요. 막대기로 이렇게 한 번씩 저어서 원단을 펴 주세요.",
+                "vietnamese": "Madhu, hãy thử giảm tốc độ máy xuống. Phải trải vải ra thì mới nhuộm đều được. Hãy dùng gậy khuấy như thế này để trải vải ra."
+            },
+            {
+                "speaker": "마 두",
+                "korean": "그렇게 할게요. 그런데 민수 씨, 오늘 염색 작업이 지난번보다 더 오래 걸리는 것 같아요.",
+                "vietnamese": "Tôi sẽ làm vậy. Nhưng mà Minsu, hôm nay nhuộm vải có vẻ lâu hơn lần trước."
+            },
+            {
+                "speaker": "민 수",
+                "korean": "원단이 합성섬유라서 그래요. 그리고 진한 색깔로 염색하면 시간이 더 걸려요.",
+                "vietnamese": "Đó là vì vải là sợi tổng hợp. Và khi nhuộm màu đậm thì sẽ mất nhiều thời gian hơn."
+            },
+            {
+                "speaker": "마 두",
+                "korean": "그렇군요. 염색이 끝나면 세척 작업을 해야 되지요?",
+                "vietnamese": "Ra vậy. Sau khi nhuộm xong thì phải giặt vải đúng không?"
+            },
+            {
+                "speaker": "민 수",
+                "korean": "네. 그럼 저는 가서 세척 작업을 준비하고 있을게요.",
+                "vietnamese": "Đúng vậy. Vậy tôi sẽ đi chuẩn bị công việc giặt."
+            }
+        ],
+        "questions": [
+            {
+                "korean_question": "원단이 엉키면 어떤 문제가 있어요?",
+                "vietnamese_question": "Khi vải bị rối thì có vấn đề gì?",
+                "korean_answer": "원단이 고르게 염색되지 않아요.",
+                "vietnamese_answer": "Vải sẽ không được nhuộm đều."
+            },
+            {
+                "korean_question": "염색 작업 후에 무엇을 해야 돼요?",
+                "vietnamese_question": "Sau khi nhuộm vải xong thì phải làm gì?",
+                "korean_answer": "세척 작업을 해야 돼요.",
+                "vietnamese_answer": "Phải giặt vải."
+            }
+        ]
+    }
+]

@@ -1,0 +1,107 @@
+[
+    {
+        "audio": "hoi-thoai-45-1.mp3",
+        "hinhanh": "hoi-thoai-45-1.jpg",
+        "hoithoai":[
+    {
+      "speaker": "다린두",
+      "korean": "사장님, 밭이 엉망이에요. 땅도 파이고 나뭇가지들도 다 부러졌어요.",
+      "vietnamese": "Thưa giám đốc, ruộng vườn lộn xộn hết rồi. Đất thì bị đào bới, cành cây cũng gãy hết."
+    },
+    {
+      "speaker": "사장님",
+      "korean": "이런, 밤에 고라니가 내려와서 열매와 잎사귀를 따 먹은 것 같네요.",
+      "vietnamese": "Ôi trời, chắc là ban đêm hươu rừng xuống ăn quả và lá rồi."
+    },
+    {
+      "speaker": "다린두",
+      "korean": "여기 보니까 울타리망 밑으로 들어온 것 같아요.",
+      "vietnamese": "Nhìn ở đây thì có vẻ chúng chui vào từ dưới hàng rào lưới."
+    },
+    {
+      "speaker": "사장님",
+      "korean": "그러네요. 울타리망을 튼튼한 것으로 다시 쳐야겠어요. 창고에 울타리망이 있는데 좀 갖다주세요.",
+      "vietnamese": "Đúng vậy. Phải dựng lại hàng rào lưới chắc chắn hơn. Trong kho có lưới, cậu đi lấy giúp nhé."
+    },
+    {
+      "speaker": "다린두",
+      "korean": "네. 여기 지주대도 넘어져서 다시 박아야겠어요.",
+      "vietnamese": "Vâng. Ở đây mấy cái cọc chống cũng đổ rồi, phải đóng lại."
+    },
+    {
+      "speaker": "사장님",
+      "korean": "그럼 망치하고 케이블타이도 같이 가져오세요.",
+      "vietnamese": "Vậy thì mang theo cả búa và dây rút nhựa nữa nhé."
+    }
+  ],
+  "questions": [
+    {
+      "korean_question": "밭에 무슨 문제가 있어요?",
+      "vietnamese_question": "Ruộng vườn có vấn đề gì?",
+      "korean_answer": "고라니가 들어와서 땅이 파이고 나뭇가지가 부러졌어요.",
+      "vietnamese_answer": "Hươu rừng vào, đất bị đào bới và cành cây bị gãy."
+    },
+    {
+      "korean_question": "다린두 씨는 창고에서 뭘 가져와야 돼요?",
+      "vietnamese_question": "Anh Thalindu phải mang gì từ kho?",
+      "korean_answer": "울타리망, 망치, 케이블타이를 가져와야 돼요.",
+      "vietnamese_answer": "Phải mang lưới rào, búa và dây rút nhựa."
+    }
+  ]
+    },
+    {
+        "audio": "hoi-thoai-45-2.mp3",
+        "hinhanh": "hoi-thoai-45-2.jpg",
+        "hoithoai": [
+    {
+      "speaker": "반장님",
+      "korean": "주말에 비가 온다고 하니까 오늘은 복숭아부터 땁시다.",
+      "vietnamese": "Cuối tuần sẽ có mưa nên hôm nay chúng ta hái đào trước nhé."
+    },
+    {
+      "speaker": "아지자",
+      "korean": "복숭아를 처음 따 보는데 어떻게 하면 돼요?",
+      "vietnamese": "Đây là lần đầu tiên em hái đào, phải làm thế nào ạ?"
+    },
+    {
+      "speaker": "반장님",
+      "korean": "먼저 복숭아 나뭇가지를 위로 올리세요. 그리고 초록색 복숭아는 따지 말고 붉은 복숭아만 따면 돼요.",
+      "vietnamese": "Đầu tiên hãy nâng cành đào lên. Không hái quả xanh, chỉ hái quả đỏ thôi."
+    },
+    {
+      "speaker": "아지자",
+      "korean": "그런데 복숭아를 손으로 따요?",
+      "vietnamese": "Thế mình hái đào bằng tay ạ?"
+    },
+    {
+      "speaker": "사장님",
+      "korean": "네. 익은 복숭아는 옆으로 살짝 돌리면 쉽게 딸 수 있어요. 복숭아에 털이 있으니까 장갑을 벗지 말고 꼭 끼고 따세요.",
+      "vietnamese": "Đúng vậy. Quả đào chín chỉ cần xoay nhẹ sang ngang là hái được. Vì đào có lông nên đừng tháo găng tay, nhớ đeo khi hái nhé."
+    },
+    {
+      "speaker": "아지자",
+      "korean": "이렇게 따면 돼요?",
+      "vietnamese": "Hái như thế này được chưa ạ?"
+    },
+    {
+      "speaker": "반장님",
+      "korean": "맞아요. 그런데 복숭아를 손으로 세게 누르면 손자국이 남고 검은색으로 변하니까 조심해야 돼요.",
+      "vietnamese": "Đúng rồi. Nhưng nếu bóp mạnh quá thì sẽ để lại vết tay và quả sẽ bị thâm đen, nên phải cẩn thận."
+    }
+  ],
+  "questions": [
+    {
+      "korean_question": "아지자 씨는 오늘 무슨 일을 할 거예요?",
+      "vietnamese_question": "Hôm nay Aziza sẽ làm việc gì?",
+      "korean_answer": "복숭아를 딸 거예요.",
+      "vietnamese_answer": "Sẽ hái đào."
+    },
+    {
+      "korean_question": "복숭아는 어떻게 따요?",
+      "vietnamese_question": "Hái đào như thế nào?",
+      "korean_answer": "장갑을 끼고 복숭아를 옆으로 살짝 돌리면 돼요.",
+      "vietnamese_answer": "Đeo găng tay và xoay nhẹ quả đào sang ngang là hái được."
+    }
+  ]
+    }
+]

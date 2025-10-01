@@ -1,0 +1,102 @@
+[
+    {
+        "audio": "hoi-thoai-44-1.mp3",
+        "hinhanh": "hoi-thoai-44-1.jpg",
+        "hoithoai":[
+    {
+      "speaker": "유수프",
+      "korean": "여기가 오늘 준설 작업을 할 곳이에요?",
+      "vietnamese": "Đây có phải là nơi chúng ta sẽ nạo vét hôm nay không?"
+    },
+    {
+      "speaker": "반장님",
+      "korean": "네. 하천에 토사가 많이 쌓여서 물이 잘 흐르지 못하네요. 시간이 많이 걸리겠어요. 어서 물부터 뺍시다.",
+      "vietnamese": "Đúng vậy. Vì bùn đất tích tụ nhiều trong lòng suối nên nước không chảy tốt. Sẽ mất khá nhiều thời gian. Hãy rút nước trước đã."
+    },
+    {
+      "speaker": "유수프",
+      "korean": "반장님, 수풀 때문에 작업하기 힘들 것 같아요. 물을 빼기 전에 굴착기로 수풀을 먼저 제거해야겠어요.",
+      "vietnamese": "Thưa tổ trưởng, vì bụi rậm nên làm việc sẽ khó khăn. Trước khi rút nước, chúng ta nên dùng máy xúc để dọn bụi rậm trước."
+    },
+    {
+      "speaker": "반장님",
+      "korean": "그렇게 하죠. 그다음에 흡입 호스로 토사를 빨아들이는 게 좋겠어요.",
+      "vietnamese": "Được, làm như vậy đi. Sau đó, tốt nhất là hút bùn đất bằng ống hút."
+    },
+    {
+      "speaker": "유수프",
+      "korean": "그리고 반장님, 그동안 비가 많이 안 와서 저쪽은 흙이 딱딱하게 굳어 있어요.",
+      "vietnamese": "Với lại tổ trưởng, dạo này ít mưa nên đất bên kia đã khô cứng lại."
+    },
+    {
+      "speaker": "반장님",
+      "korean": "그럼 그곳은 고압 호스로 물을 뿌려서 흙을 부드럽게 만듭시다.",
+      "vietnamese": "Vậy thì chúng ta hãy dùng vòi nước áp lực cao để xịt làm mềm đất chỗ đó."
+    }
+  ],
+  "questions": [
+    {
+      "korean_question": "왜 하천의 물이 잘 흐르지 못해요?",
+      "vietnamese_question": "Tại sao nước trong dòng suối không chảy tốt?",
+      "korean_answer": "하천에 토사가 많이 쌓여서 그래요.",
+      "vietnamese_answer": "Vì trong lòng suối có nhiều bùn đất tích tụ."
+    },
+    {
+      "korean_question": "무슨 작업을 가장 먼저 해야 돼요?",
+      "vietnamese_question": "Công việc nào cần làm trước tiên?",
+      "korean_answer": "물부터 빼야 돼요.",
+      "vietnamese_answer": "Phải rút nước trước."
+    }
+  ]
+    },
+    {
+        "audio": "hoi-thoai-44-2.mp3",
+        "hinhanh": "hoi-thoai-44-2.jpg",
+        "hoithoai": [
+    {
+      "speaker": "유수프",
+      "korean": "배관 연결 작업이 끝났어요. 이제 되메우기를 하면 될 것 같아요.",
+      "vietnamese": "Công việc nối ống đã xong. Bây giờ có thể tiến hành lấp đất lại."
+    },
+    {
+      "speaker": "반장님",
+      "korean": "누수가 발생하지 않도록 잘 연결했지요?",
+      "vietnamese": "Anh đã nối kỹ để không bị rò rỉ chứ?"
+    },
+    {
+      "speaker": "유수프",
+      "korean": "네, 다시 확인했어요.",
+      "vietnamese": "Vâng, tôi đã kiểm tra lại rồi."
+    },
+    {
+      "speaker": "반장님",
+      "korean": "좋아요. 그럼 굴착기로 되메우기가 어느 정도 진행되면 다지기 작업을 시작해 주세요.",
+      "vietnamese": "Tốt. Vậy khi lấp đất bằng máy xúc xong một phần thì hãy bắt đầu nén đất nhé."
+    },
+    {
+      "speaker": "유수프",
+      "korean": "반장님, 수로가 좁아서 핸드 램머로 다져야겠는데요?",
+      "vietnamese": "Thưa tổ trưởng, vì rãnh hẹp nên chắc phải dùng búa nén cầm tay ạ?"
+    },
+    {
+      "speaker": "반장님",
+      "korean": "네, 그렇게 하지요. 다지기 작업 전에 돌부터 먼저 제거하고요. 안 그러면 다칠 수 있어요.",
+      "vietnamese": "Đúng, làm vậy đi. Nhưng trước khi nén đất phải dọn đá trước, nếu không sẽ bị thương."
+    }
+  ],
+  "questions": [
+    {
+      "korean_question": "되메우기 작업이 끝나면 무엇을 하면 돼요?",
+      "vietnamese_question": "Sau khi lấp đất xong thì phải làm gì?",
+      "korean_answer": "다지기 작업을 하면 돼요.",
+      "vietnamese_answer": "Phải tiến hành nén đất."
+    },
+    {
+      "korean_question": "땅을 다지기 전에 무엇부터 해야 돼요?",
+      "vietnamese_question": "Trước khi nén đất thì phải làm gì trước?",
+      "korean_answer": "돌을 먼저 제거해야 돼요.",
+      "vietnamese_answer": "Phải dọn đá trước."
+    }
+  ]
+    }
+]
