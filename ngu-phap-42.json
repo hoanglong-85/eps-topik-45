@@ -1,0 +1,44 @@
+[{
+  "nguphap": "-(으)ㄹ까 봐",
+  "loai": "Động từ/Tính từ + -(으)ㄹ까 봐",
+  "ynghia": "Gắn vào **động từ hoặc tính từ** để diễn tả sự **lo lắng hoặc e ngại** về việc một tình huống có thể xảy ra, từ đó chuẩn bị hoặc mong rằng điều đó không xảy ra.",
+  "vidu": [
+    {
+      "cau": "손을 다칠까 봐 장갑을 끼고 사포질을 했어요.",
+      "nghia": "Vì sợ bị thương ở tay nên tôi đã đeo găng tay khi chà nhám."
+    },
+    {
+      "cau": "원목이 비에 젖을까 봐 덮개를 덮었어요.",
+      "nghia": "Sợ gỗ bị ướt mưa nên tôi đã phủ tấm che lên."
+    },
+    {
+      "cau": "작업 중에 실수를 할까 봐 걱정돼요.",
+      "nghia": "Tôi lo lắng sợ mắc lỗi trong khi làm việc."
+    }
+  ],
+  "luat": "Nếu động từ/tính từ có **patchim** → + 을까 봐 (먹다 → 먹을까 봐); không có patchim hoặc patchim ㄹ → + ㄹ까 봐 (가다 → 갈까 봐, 돌다 → 돌까 봐)."
+},
+{
+  "nguphap": "-느냐고/(으)냐고 하다",
+  "loai": "Động từ/Tính từ + -느냐고/(으)냐고 하다",
+  "ynghia": "Được gắn vào **động từ hoặc tính từ** để **thuật lại câu hỏi** của người khác. Trong giao tiếp hàng ngày, thường rút gọn thành **-냐고 하다**.",
+  "vidu": [
+    {
+      "cau": "프엉 씨가 지금 어디에 있느냐고 했어요.",
+      "nghia": "Bạn Phương đã hỏi tôi rằng bây giờ tôi đang ở đâu."
+    },
+    {
+      "cau": "아궁 씨가 바니시를 언제 주문하느냐고 물었어요.",
+      "nghia": "Bạn Agung hỏi khi nào đặt hàng sơn bóng."
+    },
+    {
+      "cau": "반장님께서 목재의 먼지를 다 털었느냐고 하셨어요.",
+      "nghia": "Tổ trưởng hỏi liệu đã phủi hết bụi gỗ chưa."
+    },
+    {
+      "cau": "아궁 씨가 나한테 언제 고향에 가냐고 물었어요.",
+      "nghia": "Bạn Agung hỏi tôi khi nào về quê."
+    }
+  ],
+  "luat": "Động từ/있다/없다 → + 느냐고 하다 (먹다 → 먹느냐고 하다); Tính từ có patchim → + 으냐고 하다 (작다 → 작으냐고 하다); Tính từ không patchim hoặc patchim ‘ㄹ’ → + 냐고 하다 (예쁘다 → 예쁘냐고 하다, 멀다 → 머냐고 하다). Trong lời nói thường rút gọn thành -냐고 하다."
+}]

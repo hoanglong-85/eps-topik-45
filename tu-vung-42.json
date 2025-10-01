@@ -1,0 +1,212 @@
+[
+    {
+        "korean": "가구",
+        "vietnamese": "Gia cụ",
+        "audio": "tu-vung-42-1.mp3"
+    },
+    {
+        "korean": "제작",
+        "vietnamese": "Chế tạo",
+        "audio": "tu-vung-42-2.mp3"
+    },
+    {
+        "korean": "준비",
+        "vietnamese": "Chuẩn bị",
+        "audio": "tu-vung-42-3.mp3"
+    },
+    {
+        "korean": "원목",
+        "vietnamese": "Gỗ",
+        "audio": "tu-vung-42-4.mp3"
+    },
+    {
+        "korean": "목재",
+        "vietnamese": "Nguyên liệu gỗ",
+        "audio": "tu-vung-42-5.mp3"
+    },
+    {
+        "korean": "길이",
+        "vietnamese": "Chiều dài",
+        "audio": "tu-vung-42-6.mp3"
+    },
+    {
+        "korean": "폭",
+        "vietnamese": "Độ rộng",
+        "audio": "tu-vung-42-7.mp3"
+    },
+    {
+        "korean": "두께",
+        "vietnamese": "Độ dày",
+        "audio": "tu-vung-42-8.mp3"
+    },
+    {
+        "korean": "센티미터",
+        "vietnamese": "Cm",
+        "audio": "tu-vung-42-9.mp3"
+    },
+    {
+        "korean": "밀리미터",
+        "vietnamese": "Mm",
+        "audio": "tu-vung-42-10.mp3"
+    },
+    {
+        "korean": "인치",
+        "vietnamese": "Inch",
+        "audio": "tu-vung-42-11.mp3"
+    },
+    {
+        "korean": "-짜리",
+        "vietnamese": "Mệnh giá~, loại~",
+        "audio": "tu-vung-42-12.mp3"
+    },
+    {
+        "korean": "테이블톱과 날물",
+        "vietnamese": "Bàn cưa và lưỡi cưa",
+        "audio": "tu-vung-42-13.mp3"
+    },
+    {
+        "korean": "그라인더",
+        "vietnamese": "Máy mài",
+        "audio": "tu-vung-42-14.mp3"
+    },
+    {
+        "korean": "대패",
+        "vietnamese": "Cái bào",
+        "audio": "tu-vung-42-15.mp3"
+    },
+    {
+        "korean": "끌",
+        "vietnamese": "Đục gỗ",
+        "audio": "tu-vung-42-16.mp3"
+    },
+    {
+        "korean": "클램프",
+        "vietnamese": "Cái vam",
+        "audio": "tu-vung-42-17.mp3"
+    },
+    {
+        "korean": "메모하다",
+        "vietnamese": "Ghi chú",
+        "audio": "tu-vung-42-18.mp3"
+    },
+    {
+        "korean": "연마",
+        "vietnamese": "Công việc mài",
+        "audio": "tu-vung-42-19.mp3"
+    },
+    {
+        "korean": "도장",
+        "vietnamese": "Công việc sơn",
+        "audio": "tu-vung-42-20.mp3"
+    },
+    {
+        "korean": "분무기",
+        "vietnamese": "Bình phun nước",
+        "audio": "tu-vung-42-21.mp3"
+    },
+    {
+        "korean": "젯소",
+        "vietnamese": "Sơn lót",
+        "audio": "tu-vung-42-22.mp3"
+    },
+    {
+        "korean": "사포",
+        "vietnamese": "Giấy nhám",
+        "audio": "tu-vung-42-23.mp3"
+    },
+    {
+        "korean": "퍼티헤라",
+        "vietnamese": "Bay trét vữa",
+        "audio": "tu-vung-42-24.mp3"
+    },
+    {
+        "korean": "홈",
+        "vietnamese": "Lỗ",
+        "audio": "tu-vung-42-25.mp3"
+    },
+    {
+        "korean": "퍼티",
+        "vietnamese": "Bột bả",
+        "audio": "tu-vung-42-26.mp3"
+    },
+    {
+        "korean": "롤러",
+        "vietnamese": "Con lăn sơn",
+        "audio": "tu-vung-42-27.mp3"
+    },
+    {
+        "korean": "페인트",
+        "vietnamese": "Sơn",
+        "audio": "tu-vung-42-28.mp3"
+    },
+    {
+        "korean": "붓",
+        "vietnamese": "Chổi sơn",
+        "audio": "tu-vung-42-29.mp3"
+    },
+    {
+        "korean": "바니시",
+        "vietnamese": "Véc ni",
+        "audio": "tu-vung-42-30.mp3"
+    },
+    {
+        "korean": "스프레이 건",
+        "vietnamese": "Súng phun",
+        "audio": "tu-vung-42-31.mp3"
+    },
+    {
+        "korean": "열풍기",
+        "vietnamese": "Quạt gió",
+        "audio": "tu-vung-42-32.mp3"
+    },
+    {
+        "korean": "도색",
+        "vietnamese": "Tô màu",
+        "audio": "tu-vung-42-33.mp3"
+    },
+    {
+        "korean": "물을 뿌리다",
+        "vietnamese": "Tưới nước",
+        "audio": "tu-vung-42-34.mp3"
+    },
+    {
+        "korean": "샌딩을 하다\/사포질을 하다",
+        "vietnamese": "Chà nhám\/đánh bóng",
+        "audio": "tu-vung-42-35.mp3"
+    },
+    {
+        "korean": "홈을 메우다",
+        "vietnamese": "Lấp lỗ",
+        "audio": "tu-vung-42-36.mp3"
+    },
+    {
+        "korean": "초벌재를 칠하다\/바르다",
+        "vietnamese": "Sơn lớp nền(lót)",
+        "audio": "tu-vung-42-37.mp3"
+    },
+    {
+        "korean": "페인트를 칠하다",
+        "vietnamese": "Quét sơn",
+        "audio": "tu-vung-42-38.mp3"
+    },
+    {
+        "korean": "마감재를 칠하다\/바르다",
+        "vietnamese": "Sơn hoàn thiện",
+        "audio": "tu-vung-42-39.mp3"
+    },
+    {
+        "korean": "페인트를 섞다\/혼합하다",
+        "vietnamese": "Trộn sơn",
+        "audio": "tu-vung-42-40.mp3"
+    },
+    {
+        "korean": "스프레이를 뿌리다",
+        "vietnamese": "Phun",
+        "audio": "tu-vung-42-41.mp3"
+    },
+    {
+        "korean": "말리다\/건조시키다",
+        "vietnamese": "Làm khô",
+        "audio": "tu-vung-42-42.mp3"
+    }
+]

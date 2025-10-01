@@ -1,0 +1,39 @@
+[
+  {
+    "title": {
+      "korean": "빌트인 가구",
+      "vietnamese": "Nội thất âm tường"
+    },
+    "data": [
+      {
+        "korean": "빌트인 가구는 주택이나 건물의 특정한 실내 공간에 딱 맞게 제작되어 내장되는 '붙박이 가구'를 말합니다. 옷장, 수납장, 장식장, 책장 등이 주로 빌트인으로 설치됩니다. 빌트인 가구는 사용자의 취향 및 공간의 특징에 맞추어 설계되기 때문에 공간을 효율적으로 활용할 수 있게 해 준다는 장점이 있습니다. 또한 벽이나 바닥에 고정되어 있어 일반 가구보다 견고하고 안정적입니다.",
+        "vietnamese": "Đồ nội thất âm tường là những loại nội thất được chế tác và lắp đặt sao cho phù hợp với không gian riêng của nhà hay tòa nhà. Tủ quần áo, kệ bếp, tủ trang trí hay tủ sách chủ yếu được lắp đặt âm tường. Vì được thiết kế dựa trên sở thích của người sử dụng và phù hợp với đặc trưng của không gian nên đồ nội thất âm tường có ưu điểm là khiến không gian được ứng dụng hiệu quả. Hơn nữa, vì chúng được cố định ở trên tường hoặc dưới sàn nên sẽ kiên cố và ổn định hơn đồ nội thất bình thường."
+      },
+      {
+        "korean": "그러나 빌트인 가구는 설치와 철거에 비용이 많이 들고, 디자인 트렌드가 바뀌거나 더 이상 필요하지 않아도 쉽게 교체하거나 철거하기 어렵다는 단점이 있습니다.",
+        "vietnamese": "Tuy nhiên, đồ nội thất âm tường có những nhược điểm như tốn nhiều chi phí lắp đặt, khó thay thế hay tháo dỡ khi xu hướng thiết kế thay đổi hay khi không cần thiết nữa."
+      },
+      {
+        "korean": "이러한 단점에도 불구하고 고품질의 빌트인 가구는 실내 인테리어와 조화를 이루며 깔끔하고 현대적인 느낌을 주기 때문에 더욱 인기가 많아지고 있습니다. 최근에 지은 아파트에 고급스럽고 실용적인 빌트인 가구가 많이 설치되고 있는 것도 이 때문입니다. 또한, 최근에는 가구뿐만 아니라 에어컨, 전기 오븐, 식기 세척기 등의 가전제품도 빌트인으로 제공되어 더욱 편리하고 세련된 공간을 제공하고 있습니다.",
+        "vietnamese": "Bất chấp những nhược điểm như vậy, các sản phẩm nội thất âm tường cao cấp đang ngày càng trở nên nổi tiếng bởi nó tạo ra sự hài hòa trong việc trang trí nội thất và mang lại cảm giác gọn gàng, hiện đại. Đó là nguyên nhân làm cho đồ nội thất âm tường mang tính hữu dụng và cao cấp được lắp đặt nhiều trong những căn hộ mới được xây dựng. Hơn nữa, gần đây, không chỉ nội thất mà ngay cả đồ gia dụng như điều hòa, lò nướng hay máy rửa bát cũng được thiết kế âm tường để tạo ra một không gian tiện lợi và tinh tế."
+      }
+    ],
+    "voca": {
+      "빌트인 가구": "Nội thất gắn tường",
+      "특정하다": "Riêng biệt, cá biệt",
+      "수납장": "Tủ để đồ",
+      "장식장": "Tủ trưng bày, tủ trang trí",
+      "취향": "Khuynh hướng, sở thích",
+      "견고하다": "Kiên cố",
+      "철거": "Sự tháo dỡ, giải phóng",
+      "불구하다": "Bất kể, mặc kệ, không liên quan",
+      "인테리어": "Trang trí nội thất",
+      "조화": "Sự hài hoà",
+      "고급스럽다": "Cao cấp, sang trọng",
+      "전기 오븐": "Lò nướng điện",
+      "식기 세척기": "Máy rửa chén",
+      "더욱": "Hơn nữa, càng",
+      "세련된 공간": "Không gian sang trọng"
+    }
+  }
+]
